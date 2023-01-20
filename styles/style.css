@@ -22,3 +22,11 @@ body{
 .icons i{
     color: 	#ffe234;
 }
+
+footer ul li{
+    list-style-type: none;
+}
+
+footer{
+    background: rgb(5, 5, 33);
+}
