@@ -1,6 +1,4 @@
-body{
-   
-}
+
 .first-slide{
 
 }
@@ -29,4 +27,10 @@ footer ul li{
 
 footer{
     background: rgb(5, 5, 33);
+}
+
+.color-pallate{
+    background-color: #ff597a47 !important; 
+    color: rgb(1, 1, 1);
+  
 }
